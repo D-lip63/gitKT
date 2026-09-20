@@ -12,6 +12,8 @@ def main():
 
     print(multiply(20,30))
 
+    print(x/y)
+
 
 if __name__ == "__main__":
     main()

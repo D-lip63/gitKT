@@ -1,5 +1,6 @@
 from adding import add
 from difference import diff
+from multi import multiply
 
 def main():
     print("Hello I am Dilip!")
@@ -7,6 +8,7 @@ def main():
     y=12
     print(add(x,y))
     print(diff(x,y))
+    print(multiply(x,y))
 
 
 if __name__ == "__main__":
